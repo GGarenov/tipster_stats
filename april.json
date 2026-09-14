@@ -1,0 +1,2632 @@
+{
+  "source": "https://redcardrisk.blogabet.com/",
+  "tipster": "Goal Digger",
+  "platform": "Blogabet",
+  "country": "Bulgaria",
+  "verified": false,
+  "extractedAt": "2026-07-24",
+  "filter": {
+    "section": "Picks Archive",
+    "dateFrom": "01-04-2026",
+    "dateTo": "30-04-2026",
+    "dateFormat": "dd-mm-yyyy"
+  },
+  "summary": {
+    "picks": 128,
+    "profit": 131,
+    "yieldPercent": 10,
+    "followers": 112,
+    "won": 55,
+    "lost": 70,
+    "void": 3,
+    "profitSumFromPicks": 130.74
+  },
+  "stakes": [
+    {
+      "stake": "10/10",
+      "picks": 128,
+      "profit": 131
+    }
+  ],
+  "bookmakers": [
+    {
+      "name": "Bet365",
+      "picks": 124,
+      "profit": 134
+    },
+    {
+      "name": "PINNACLE",
+      "picks": 2,
+      "profit": -3
+    },
+    {
+      "name": "vip-ibc",
+      "picks": 2,
+      "profit": 0
+    }
+  ],
+  "sports": [
+    {
+      "name": "Football",
+      "picks": 64,
+      "profit": -49
+    },
+    {
+      "name": "Combo pick",
+      "picks": 64,
+      "profit": 180
+    }
+  ],
+  "leagues": [
+    {
+      "name": "Asia",
+      "picks": 1,
+      "profit": -10
+    },
+    {
+      "name": "Australia",
+      "picks": 16,
+      "profit": 23
+    },
+    {
+      "name": "Austria",
+      "picks": 1,
+      "profit": -10
+    },
+    {
+      "name": "Bosnia & Herz.",
+      "picks": 1,
+      "profit": -10
+    },
+    {
+      "name": "Bulgaria",
+      "picks": 1,
+      "profit": 13
+    },
+    {
+      "name": "Eng. Championship",
+      "picks": 1,
+      "profit": -10
+    },
+    {
+      "name": "Eng. FA Cup",
+      "picks": 2,
+      "profit": -20
+    },
+    {
+      "name": "Eng. Premier",
+      "picks": 3,
+      "profit": -11
+    },
+    {
+      "name": "Estonia",
+      "picks": 1,
+      "profit": -10
+    },
+    {
+      "name": "Europa Conference League",
+      "picks": 1,
+      "profit": 9
+    },
+    {
+      "name": "Europa League",
+      "picks": 2,
+      "profit": 20
+    },
+    {
+      "name": "Fra. Ligue 1",
+      "picks": 1,
+      "profit": 10
+    },
+    {
+      "name": "Ger. Bundesliga I",
+      "picks": 1,
+      "profit": -10
+    },
+    {
+      "name": "India",
+      "picks": 2,
+      "profit": -10
+    },
+    {
+      "name": "Ita. Other",
+      "picks": 2,
+      "profit": -3
+    },
+    {
+      "name": "Ita. Serie A",
+      "picks": 8,
+      "profit": -27
+    },
+    {
+      "name": "Japan",
+      "picks": 6,
+      "profit": 24
+    },
+    {
+      "name": "Netherlands",
+      "picks": 1,
+      "profit": 7
+    },
+    {
+      "name": "Oceania",
+      "picks": 2,
+      "profit": 15
+    },
+    {
+      "name": "Serbia",
+      "picks": 1,
+      "profit": -10
+    },
+    {
+      "name": "Spa. Primera",
+      "picks": 3,
+      "profit": -30
+    },
+    {
+      "name": "Women",
+      "picks": 7,
+      "profit": 1
+    },
+    {
+      "name": "Combo pick",
+      "picks": 64,
+      "profit": 180
+    }
+  ],
+  "months": [
+    {
+      "name": "April 2026",
+      "picks": 128,
+      "profit": 131
+    }
+  ],
+  "picks": [
+    {
+      "id": "49728758",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.465,
+      "stake": "10/10",
+      "profit": 14.65,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49728758/combo-pick",
+      "legs": [
+        {
+          "event": "Green Gully - Oakleigh Cannons",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.57,
+          "result": "won",
+          "score": "0-5"
+        },
+        {
+          "event": "South Melbourne - Melbourne City NPL",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.57,
+          "result": "won",
+          "score": "1-2"
+        }
+      ]
+    },
+    {
+      "id": "49728752",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.831,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49728752/combo-pick",
+      "legs": [
+        {
+          "event": "Campbelltown City - Croydon FC",
+          "selection": "Over 3.5 (Goal Line)",
+          "odd": 1.85,
+          "result": "lost",
+          "score": "1-2"
+        },
+        {
+          "event": "West Torrens Birkalla - Adelaide City",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.53,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49728731",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.571,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49728731/combo-pick",
+      "legs": [
+        {
+          "event": "Rayo Vallecano - Strasbourg",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 1.93,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Nottm Forest - Aston Villa",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 1.85,
+          "result": "lost",
+          "score": "1-0"
+        }
+      ]
+    },
+    {
+      "id": "49722190",
+      "event": "Urawa Red Diamonds - Kawasaki Frontale",
+      "market": "Kawasaki Frontale Over 2.5 (Result Total Goals)",
+      "odd": 4.33,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Japan",
+      "url": "https://redcardrisk.blogabet.com/pick/49722190/urawa-red-diamonds-kawasaki-frontale"
+    },
+    {
+      "id": "49722187",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.422,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49722187/combo-pick",
+      "legs": [
+        {
+          "event": "Vissel Kobe - Cerezo Osaka",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.73,
+          "result": "lost",
+          "score": "0-0"
+        },
+        {
+          "event": "Tokyo Verdy - Kashima Antlers",
+          "selection": "Over 1.5 (Alternative Total Goals)",
+          "odd": 1.4,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49722175",
+      "event": "Omiya Ardija Ventus Women - NTV Beleza Women",
+      "market": "NTV Beleza Women 1X2 (FT)",
+      "odd": 1.849,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Women",
+      "url": "https://redcardrisk.blogabet.com/pick/49722175/omiya-ardija-ventus-women-ntv-beleza-women"
+    },
+    {
+      "id": "49716654",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.61,
+      "stake": "10/10",
+      "profit": 26.1,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49716654/combo-pick",
+      "legs": [
+        {
+          "event": "BK Hacken - Sirius",
+          "selection": "Over 3.0 (Goal Line)",
+          "odd": 1.9,
+          "result": "won",
+          "score": "2-2"
+        },
+        {
+          "event": "Kalmar FF - Elfsborg",
+          "selection": "Over 2.0, 2.5 (Goal Line)",
+          "odd": 1.9,
+          "result": "won",
+          "score": "2-1"
+        }
+      ]
+    },
+    {
+      "id": "49714162",
+      "event": "Floreat Athena - Curtin University SC",
+      "market": "Over 3.0 (Goal Line)",
+      "odd": 1.85,
+      "stake": "10/10",
+      "profit": 8.5,
+      "result": "won",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49714162/floreat-athena-curtin-university-sc"
+    },
+    {
+      "id": "49714160",
+      "event": "Man Utd - Brentford",
+      "market": "Man Utd (Full Time Result)",
+      "odd": 1.91,
+      "stake": "10/10",
+      "profit": 9.1,
+      "result": "won",
+      "league": "Eng. Premier",
+      "url": "https://redcardrisk.blogabet.com/pick/49714160/man-utd-brentford"
+    },
+    {
+      "id": "49711837",
+      "event": "Torino - Inter Milan",
+      "market": "Torino (Full Time Result)",
+      "odd": 7.5,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Ita. Serie A",
+      "url": "https://redcardrisk.blogabet.com/pick/49711837/torino-inter-milan"
+    },
+    {
+      "id": "49711094",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.512,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49711094/combo-pick",
+      "legs": [
+        {
+          "event": "Genoa - Como",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 2.03,
+          "result": "lost",
+          "score": "0-2"
+        },
+        {
+          "event": "Lorient - Strasbourg",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.73,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49709453",
+      "event": "Excelsior - FC Utrecht",
+      "market": "Over 2.5 (Goals Over Under)",
+      "odd": 1.7,
+      "stake": "10/10",
+      "profit": 7,
+      "result": "won",
+      "league": "Netherlands",
+      "url": "https://redcardrisk.blogabet.com/pick/49709453/excelsior-fc-utrecht"
+    },
+    {
+      "id": "49705398",
+      "event": "Al Ahli Jeddah - Machida Zelvia",
+      "market": "Over 2.5 (Goals Over Under)",
+      "odd": 2.35,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Asia",
+      "url": "https://redcardrisk.blogabet.com/pick/49705398/al-ahli-jeddah-machida-zelvia"
+    },
+    {
+      "id": "49704883",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 4.095,
+      "stake": "10/10",
+      "profit": 0.5,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49704883/combo-pick",
+      "legs": [
+        {
+          "event": "Chelsea - Leeds",
+          "selection": "Chelsea (Full Time Result)",
+          "odd": 2.1,
+          "result": "won",
+          "score": "1-0"
+        },
+        {
+          "event": "Man City - Southampton",
+          "selection": "Over 3.0, 3.5 (Goal Line)",
+          "odd": 1.95,
+          "result": "lost",
+          "score": "2-1"
+        }
+      ]
+    },
+    {
+      "id": "49704875",
+      "event": "Fiorentina - Sassuolo",
+      "market": "Fiorentina (Full Time Result)",
+      "odd": 1.91,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Ita. Serie A",
+      "url": "https://redcardrisk.blogabet.com/pick/49704875/fiorentina-sassuolo"
+    },
+    {
+      "id": "49704814",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.889,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49704814/combo-pick",
+      "legs": [
+        {
+          "event": "Sydney United 58 - Wollongong Wolves",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.73,
+          "result": "lost",
+          "score": "0-1"
+        },
+        {
+          "event": "Blacktown City - NWS Spirit FC",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.67,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49704787",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.826,
+      "stake": "10/10",
+      "profit": 18.26,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49704787/combo-pick",
+      "legs": [
+        {
+          "event": "Charlestown Azzurri - Valentine Phoenix",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.57,
+          "result": "won",
+          "score": "1-2"
+        },
+        {
+          "event": "Belmont Swansea United SC - Kahibah FC",
+          "selection": "Belmont Swansea United SC (Full Time Result)",
+          "odd": 1.8,
+          "result": "won",
+          "score": "5-3"
+        }
+      ]
+    },
+    {
+      "id": "49704768",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.247,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49704768/combo-pick",
+      "legs": [
+        {
+          "event": "Melbourne City - Adelaide United",
+          "selection": "Melbourne City (Full Time Result)",
+          "odd": 1.91,
+          "result": "lost",
+          "score": "1-2"
+        },
+        {
+          "event": "Sydney FC - Auckland FC",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.7,
+          "result": "won",
+          "score": "2-2"
+        }
+      ]
+    },
+    {
+      "id": "49704598",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.525,
+      "stake": "10/10",
+      "profit": 15.25,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49704598/combo-pick",
+      "legs": [
+        {
+          "event": "CSKA Sofia - Levski Sofia",
+          "selection": "Over 1.5 (Alternative Total Goals)",
+          "odd": 1.53,
+          "result": "won",
+          "score": "1-3"
+        },
+        {
+          "event": "Getafe - Barcelona",
+          "selection": "Barcelona (Full Time Result)",
+          "odd": 1.65,
+          "result": "won",
+          "score": "0-2"
+        }
+      ]
+    },
+    {
+      "id": "49704483",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 4.95,
+      "stake": "10/10",
+      "profit": 39.5,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49704483/combo-pick",
+      "legs": [
+        {
+          "event": "Parma - Pisa",
+          "selection": "Parma (Full Time Result)",
+          "odd": 2.2,
+          "result": "won",
+          "score": "1-0"
+        },
+        {
+          "event": "Bologna - Roma",
+          "selection": "Roma (Full Time Result)",
+          "odd": 2.25,
+          "result": "won",
+          "score": "0-2"
+        }
+      ]
+    },
+    {
+      "id": "49704452",
+      "event": "Lyon - Auxerre",
+      "market": "Over 2.5 (Goal Line)",
+      "odd": 1.98,
+      "stake": "10/10",
+      "profit": 9.8,
+      "result": "won",
+      "league": "Fra. Ligue 1",
+      "url": "https://redcardrisk.blogabet.com/pick/49704452/lyon-auxerre"
+    },
+    {
+      "id": "49702873",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.46,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49702873/combo-pick",
+      "legs": [
+        {
+          "event": "Fulham - Aston Villa",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.73,
+          "result": "lost",
+          "score": "1-0"
+        },
+        {
+          "event": "West Brom - Ipswich",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 2,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49701947",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.505,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49701947/combo-pick",
+      "legs": [
+        {
+          "event": "Ipswich FC - Sunshine Coast Wanderers",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.67,
+          "result": "lost",
+          "score": "1-1"
+        },
+        {
+          "event": "Inter Lions - Blacktown Spartans",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.5,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49701940",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.663,
+      "stake": "10/10",
+      "profit": 8.5,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49701940/combo-pick",
+      "legs": [
+        {
+          "event": "Armadale - Stirling Macedonia",
+          "selection": "Over 3.5 (Goal Line)",
+          "odd": 1.85,
+          "result": "won",
+          "score": "2-4"
+        },
+        {
+          "event": "Olympic Kingsway - Western Knights",
+          "selection": "Over 3.0 (Goal Line)",
+          "odd": 1.98,
+          "result": "void",
+          "score": "2-1"
+        }
+      ]
+    },
+    {
+      "id": "49701926",
+      "event": "Gold Coast Knights - Gold Coast United",
+      "market": "Under 11 (Corners)",
+      "odd": 2,
+      "stake": "10/10",
+      "profit": 0,
+      "result": "void",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49701926/gold-coast-knights-gold-coast-united"
+    },
+    {
+      "id": "49701903",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.355,
+      "stake": "10/10",
+      "profit": 13.55,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49701903/combo-pick",
+      "legs": [
+        {
+          "event": "Sydney Olympic - University NSW",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.57,
+          "result": "won",
+          "score": "2-1"
+        },
+        {
+          "event": "Peninsula Power - Lions FC",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.5,
+          "result": "won",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49701891",
+      "event": "Adamstown Rosebud - Weston Workers FC",
+      "market": "Over 3.5 (Goal Line)",
+      "odd": 1.93,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49701891/adamstown-rosebud-weston-workers-fc"
+    },
+    {
+      "id": "49701863",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.14,
+      "stake": "10/10",
+      "profit": 21.4,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49701863/combo-pick",
+      "legs": [
+        {
+          "event": "Newcastle Jets - Central Coast Mariners",
+          "selection": "Newcastle Jets (Full Time Result)",
+          "odd": 1.57,
+          "result": "won",
+          "score": "4-0"
+        },
+        {
+          "event": "Western Sydney Wanderers - Melbourne Victory",
+          "selection": "Melbourne Victory (Full Time Result)",
+          "odd": 2,
+          "result": "won",
+          "score": "0-2"
+        }
+      ]
+    },
+    {
+      "id": "49688533",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.004,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49688533/combo-pick",
+      "legs": [
+        {
+          "event": "PSG - Nantes",
+          "selection": "Nantes +2.0,+2.5 (Asian Handicap)",
+          "odd": 2.03,
+          "result": "lost",
+          "score": "3-0"
+        },
+        {
+          "event": "SK Brann - Aalesund",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.48,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49688501",
+      "event": "Elche - Atletico Madrid",
+      "market": "Atletico Madrid (Full Time Result)",
+      "odd": 2.88,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Spa. Primera",
+      "url": "https://redcardrisk.blogabet.com/pick/49688501/elche-atletico-madrid"
+    },
+    {
+      "id": "49688490",
+      "event": "OFK Beograd - Cukaricki",
+      "market": "Full Event Home (1X2)",
+      "odd": 1.909,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Serbia",
+      "url": "https://redcardrisk.blogabet.com/pick/49688490/ofk-beograd-cukaricki"
+    },
+    {
+      "id": "49686351",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.491,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49686351/combo-pick",
+      "legs": [
+        {
+          "event": "Blacktown City - Blacktown Spartans",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.44,
+          "result": "lost",
+          "score": "2-0"
+        },
+        {
+          "event": "Palmerston Rovers FC - Port Darwin FC",
+          "selection": "Over 8.5 (Corners 2 Way)",
+          "odd": 1.73,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49685424",
+      "event": "Gamba Osaka - Avispa Fukuoka",
+      "market": "Gamba Osaka (Full Time Result)",
+      "odd": 1.8,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Japan",
+      "url": "https://redcardrisk.blogabet.com/pick/49685424/gamba-osaka-avispa-fukuoka"
+    },
+    {
+      "id": "49683693",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.564,
+      "stake": "10/10",
+      "profit": 25.64,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49683693/combo-pick",
+      "legs": [
+        {
+          "event": "Leicester - Hull",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.8,
+          "result": "won",
+          "score": "2-2"
+        },
+        {
+          "event": "QPR - Swansea",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 1.98,
+          "result": "won",
+          "score": "1-2"
+        }
+      ]
+    },
+    {
+      "id": "49683684",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.252,
+      "stake": "10/10",
+      "profit": 22.52,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49683684/combo-pick",
+      "legs": [
+        {
+          "event": "Norwich - Derby",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 1.88,
+          "result": "won",
+          "score": "2-1"
+        },
+        {
+          "event": "Coventry - Portsmouth",
+          "selection": "Yes (Both Teams To Score)",
+          "odd": 1.73,
+          "result": "won",
+          "score": "5-1"
+        }
+      ]
+    },
+    {
+      "id": "49683672",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.591,
+      "stake": "10/10",
+      "profit": 25.91,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49683672/combo-pick",
+      "legs": [
+        {
+          "event": "Real Madrid - CD Alaves",
+          "selection": "CD Alaves +2.0 (Asian Handicap)",
+          "odd": 1.88,
+          "result": "won",
+          "score": "2-1"
+        },
+        {
+          "event": "Girona - Real Betis",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.91,
+          "result": "won",
+          "score": "2-3"
+        }
+      ]
+    },
+    {
+      "id": "49680645",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.569,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49680645/combo-pick",
+      "legs": [
+        {
+          "event": "Jeonbuk Motors - Incheon Utd",
+          "selection": "Jeonbuk Motors (Full Time Result)",
+          "odd": 1.83,
+          "result": "lost",
+          "score": "1-2"
+        },
+        {
+          "event": "FC Seoul - Bucheon FC 1995",
+          "selection": "Over 2.0, 2.5 (Goal Line)",
+          "odd": 1.95,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49680625",
+      "event": "South Melbourne - Tahiti United",
+      "market": "Full Event Over 3 (O/U)",
+      "odd": 1.709,
+      "stake": "10/10",
+      "profit": 7.09,
+      "result": "won",
+      "league": "Oceania",
+      "url": "https://redcardrisk.blogabet.com/pick/49680625/south-melbourne-tahiti-united"
+    },
+    {
+      "id": "49677958",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.374,
+      "stake": "10/10",
+      "profit": 23.74,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49677958/combo-pick",
+      "legs": [
+        {
+          "event": "Vissel Kobe - Al Ahli Jeddah",
+          "selection": "Yes (Both Teams To Score)",
+          "odd": 1.73,
+          "result": "won",
+          "score": "1-2"
+        },
+        {
+          "event": "Lecce - Fiorentina",
+          "selection": "Yes (Both Teams To Score)",
+          "odd": 1.95,
+          "result": "won",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49672776",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.96,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49672776/combo-pick",
+      "legs": [
+        {
+          "event": "Verona - AC Milan",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 2,
+          "result": "lost",
+          "score": "0-1"
+        },
+        {
+          "event": "Aston Villa - Sunderland",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 1.98,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49672771",
+      "event": "Verona - AC Milan",
+      "market": "AC Milan Over 2.5 (Result Total Goals)",
+      "odd": 2.5,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Ita. Serie A",
+      "url": "https://redcardrisk.blogabet.com/pick/49672771/verona-ac-milan"
+    },
+    {
+      "id": "49670284",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.173,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49670284/combo-pick",
+      "legs": [
+        {
+          "event": "Brisbane City - Rochedale Rovers",
+          "selection": "Over 3.5 (Goal Line)",
+          "odd": 1.9,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Lions FC - Gold Coast United",
+          "selection": "Over 2.5 & Yes (Total Goals Both Teams To Score)",
+          "odd": 1.67,
+          "result": "lost",
+          "score": "1-0"
+        }
+      ]
+    },
+    {
+      "id": "49670267",
+      "event": "Wollongong Wolves - Sutherland Sharks",
+      "market": "Over 2.5 (Goal Line)",
+      "odd": 1.8,
+      "stake": "10/10",
+      "profit": 8,
+      "result": "won",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49670267/wollongong-wolves-sutherland-sharks"
+    },
+    {
+      "id": "49670264",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.52,
+      "stake": "10/10",
+      "profit": 15.2,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49670264/combo-pick",
+      "legs": [
+        {
+          "event": "Belmont Swansea United SC - Newcastle Olympic FC",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.4,
+          "result": "won",
+          "score": "2-2"
+        },
+        {
+          "event": "Sydney FC NPL - Blacktown City",
+          "selection": "Over 3.0 (Goal Line)",
+          "odd": 1.8,
+          "result": "won",
+          "score": "2-2"
+        }
+      ]
+    },
+    {
+      "id": "49670249",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.16,
+      "stake": "10/10",
+      "profit": 11.6,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49670249/combo-pick",
+      "legs": [
+        {
+          "event": "Adelaide United - Macarthur FC",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.44,
+          "result": "won",
+          "score": "3-1"
+        },
+        {
+          "event": "Sunshine Coast Wanderers - Logan Lightning",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.5,
+          "result": "won",
+          "score": "5-2"
+        }
+      ]
+    },
+    {
+      "id": "49666300",
+      "event": "TSG Hoffenheim - Borussia Dortmund",
+      "market": "Borussia Dortmund (Full Time Result)",
+      "odd": 2.9,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Ger. Bundesliga I",
+      "url": "https://redcardrisk.blogabet.com/pick/49666300/tsg-hoffenheim-borussia-dortmund"
+    },
+    {
+      "id": "49664773",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.648,
+      "stake": "10/10",
+      "profit": 26.48,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49664773/combo-pick",
+      "legs": [
+        {
+          "event": "Bolton - Huddersfield",
+          "selection": "Over 2.5 & Yes (Total Goals Both Teams To Score)",
+          "odd": 1.91,
+          "result": "won",
+          "score": null
+        },
+        {
+          "event": "Derby - Oxford Utd",
+          "selection": "Derby (Full Time Result)",
+          "odd": 1.91,
+          "result": "won",
+          "score": "1-0"
+        }
+      ]
+    },
+    {
+      "id": "49664667",
+      "event": "Brentford - Fulham",
+      "market": "Brentford (Full Time Result)",
+      "odd": 2,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Eng. Premier",
+      "url": "https://redcardrisk.blogabet.com/pick/49664667/brentford-fulham"
+    },
+    {
+      "id": "49663853",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.448,
+      "stake": "10/10",
+      "profit": 14.48,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49663853/combo-pick",
+      "legs": [
+        {
+          "event": "Caroline Springs George Cross - Heidelberg Utd",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.7,
+          "result": "won",
+          "score": "0-3"
+        },
+        {
+          "event": "Broadbeach United - Brisbane Strikers",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.44,
+          "result": "won",
+          "score": "2-1"
+        }
+      ]
+    },
+    {
+      "id": "49663745",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.333,
+      "stake": "10/10",
+      "profit": 13.33,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49663745/combo-pick",
+      "legs": [
+        {
+          "event": "Metrostars - White City FK Beograd",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.44,
+          "result": "won",
+          "score": "3-0"
+        },
+        {
+          "event": "North Star - Ipswich FC",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.62,
+          "result": "won",
+          "score": "1-2"
+        }
+      ]
+    },
+    {
+      "id": "49663412",
+      "event": "Brisbane Roar - Melbourne City",
+      "market": "Over 2.5 (Goal Line)",
+      "odd": 1.83,
+      "stake": "10/10",
+      "profit": 8.3,
+      "result": "won",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49663412/brisbane-roar-melbourne-city"
+    },
+    {
+      "id": "49662992",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.571,
+      "stake": "10/10",
+      "profit": 17.1,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49662992/combo-pick",
+      "legs": [
+        {
+          "event": "Brindabella Blues FC - Canberra Croatia FC",
+          "selection": "Brindabella Blues FC +2.0,+2.5 (Asian Handicap)",
+          "odd": 1.93,
+          "result": "won",
+          "score": "0-2"
+        },
+        {
+          "event": "Canberra White Eagles - Canberra Olympic",
+          "selection": "Over 3.0, 3.5 (Goal Line)",
+          "odd": 1.85,
+          "result": "won",
+          "score": "1-6"
+        }
+      ]
+    },
+    {
+      "id": "49662990",
+      "event": "Wellington Phoenix - Western Sydney Wanderers",
+      "market": "Over 11 (Alternative Corners)",
+      "odd": 2.63,
+      "stake": "10/10",
+      "profit": 16.3,
+      "result": "won",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49662990/wellington-phoenix-western-sydney-wanderers"
+    },
+    {
+      "id": "49662987",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.87,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49662987/combo-pick",
+      "legs": [
+        {
+          "event": "Gangwon FC - Jeonbuk Motors",
+          "selection": "Over 1.5 (Alternative Total Goals)",
+          "odd": 1.4,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "FC Seoul - Daejeon Hana Citizen",
+          "selection": "FC Seoul (Full Time Result)",
+          "odd": 2.05,
+          "result": "lost",
+          "score": "0-1"
+        }
+      ]
+    },
+    {
+      "id": "49662986",
+      "event": "Shonan Bellmare - Thespa Gunma",
+      "market": "Over 2.5 (Goals Over Under)",
+      "odd": 1.85,
+      "stake": "10/10",
+      "profit": 8.5,
+      "result": "won",
+      "league": "Japan",
+      "url": "https://redcardrisk.blogabet.com/pick/49662986/shonan-bellmare-thespa-gunma"
+    },
+    {
+      "id": "49660053",
+      "event": "Sassuolo - Como",
+      "market": "Over 2.5 (Goals Over Under)",
+      "odd": 1.67,
+      "stake": "10/10",
+      "profit": 6.7,
+      "result": "won",
+      "league": "Ita. Serie A",
+      "url": "https://redcardrisk.blogabet.com/pick/49660053/sassuolo-como"
+    },
+    {
+      "id": "49657024",
+      "event": "Langwarrin - Bulleen Lions",
+      "market": "Bulleen Lions (Full Time Result)",
+      "odd": 1.91,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49657024/langwarrin-bulleen-lions"
+    },
+    {
+      "id": "49657015",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.748,
+      "stake": "10/10",
+      "profit": 17.48,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49657015/combo-pick",
+      "legs": [
+        {
+          "event": "Holland Park Hawks - Capalaba Bulldogs",
+          "selection": "Holland Park Hawks (Full Time Result)",
+          "odd": 1.57,
+          "result": "won",
+          "score": "2-1"
+        },
+        {
+          "event": "Adelaide Olympic - Adelaide Atletico",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.75,
+          "result": "won",
+          "score": "1-2"
+        }
+      ]
+    },
+    {
+      "id": "49657009",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.386,
+      "stake": "10/10",
+      "profit": -0.85,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49657009/combo-pick",
+      "legs": [
+        {
+          "event": "Wynnum Wolves - Gold Coast Knights",
+          "selection": "Over 3.0, 3.5 (Goal Line)",
+          "odd": 1.83,
+          "result": "won",
+          "score": "0-4"
+        },
+        {
+          "event": "Bentleigh Greens - Preston Lions",
+          "selection": "Over 2.0, 2.5 (Goal Line)",
+          "odd": 1.85,
+          "result": "lost",
+          "score": "1-1"
+        }
+      ]
+    },
+    {
+      "id": "49656995",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.534,
+      "stake": "10/10",
+      "profit": 25.34,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49656995/combo-pick",
+      "legs": [
+        {
+          "event": "Melbourne Victory - Newcastle Jets",
+          "selection": "Over 3.5 (Goal Line)",
+          "odd": 1.88,
+          "result": "won",
+          "score": "2-2"
+        },
+        {
+          "event": "Broadmeadow Magic - Cooks Hill United",
+          "selection": "Over 3.5 (Goal Line)",
+          "odd": 1.88,
+          "result": "won",
+          "score": "6-0"
+        }
+      ]
+    },
+    {
+      "id": "49655236",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 4.025,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49655236/combo-pick",
+      "legs": [
+        {
+          "event": "Real Betis - Braga",
+          "selection": "Real Betis (Full Time Result)",
+          "odd": 1.75,
+          "result": "lost",
+          "score": "2-4"
+        },
+        {
+          "event": "Nottm Forest - FC Porto",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 2.3,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49654828",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.374,
+      "stake": "10/10",
+      "profit": 23.74,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49654828/combo-pick",
+      "legs": [
+        {
+          "event": "Aston Villa - Bologna",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.73,
+          "result": "won",
+          "score": "4-0"
+        },
+        {
+          "event": "AZ - Shakhtar Donetsk",
+          "selection": "Over 2.5, 3.0 (Goal Line)",
+          "odd": 1.95,
+          "result": "won",
+          "score": "2-2"
+        }
+      ]
+    },
+    {
+      "id": "49654817",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.294,
+      "stake": "10/10",
+      "profit": 22.94,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49654817/combo-pick",
+      "legs": [
+        {
+          "event": "Al-Sadd SC - Vissel Kobe",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 1.83,
+          "result": "won",
+          "score": "3-3"
+        },
+        {
+          "event": "JK Tallinna Kalev - FC Flora Tallinn II",
+          "selection": "Over 3.5 (Goal Line)",
+          "odd": 1.8,
+          "result": "won",
+          "score": "1-3"
+        }
+      ]
+    },
+    {
+      "id": "49648197",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.06,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49648197/combo-pick",
+      "legs": [
+        {
+          "event": "Israel U19 (W) - Bulgaria U19 (W)",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.8,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Kazakhstan U19 (W) - Malta U19 (W)",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.7,
+          "result": "lost",
+          "score": "0-1"
+        }
+      ]
+    },
+    {
+      "id": "49648184",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.608,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49648184/combo-pick",
+      "legs": [
+        {
+          "event": "Canberra Croatia FC - Canberra White Eagles",
+          "selection": "Under 4.5 (Goal Line)",
+          "odd": 1.95,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Tigers FC - Canberra Juventus",
+          "selection": "Tigers FC -1.5,-2.0 (Asian Handicap)",
+          "odd": 1.85,
+          "result": "lost",
+          "score": "2-3"
+        }
+      ]
+    },
+    {
+      "id": "49648180",
+      "event": "North Korea U20 (W) - South Korea U20 (W)",
+      "market": "South Korea U20 (W) +3.0,+3.5 (Asian Handicap)",
+      "odd": 1.95,
+      "stake": "10/10",
+      "profit": 4.75,
+      "result": "won",
+      "league": "Women",
+      "url": "https://redcardrisk.blogabet.com/pick/49648180/north-korea-u20-w-south-korea-u20-w"
+    },
+    {
+      "id": "49646321",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 4.73,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49646321/combo-pick",
+      "legs": [
+        {
+          "event": "Portsmouth - Ipswich",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 2.2,
+          "result": "lost",
+          "score": "2-0"
+        },
+        {
+          "event": "Wigan - Rotherham",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 2.15,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49643195",
+      "event": "Solomon Kings FC - Vanuatu United",
+      "market": "Over 2.5 (Goal Line)",
+      "odd": 1.8,
+      "stake": "10/10",
+      "profit": 8,
+      "result": "won",
+      "league": "Oceania",
+      "url": "https://redcardrisk.blogabet.com/pick/49643195/solomon-kings-fc-vanuatu-united"
+    },
+    {
+      "id": "49643194",
+      "event": "Italy U19 (W) - Netherlands U19 (W)",
+      "market": "Over 2.5 (Goal Line)",
+      "odd": 1.8,
+      "stake": "10/10",
+      "profit": 8,
+      "result": "won",
+      "league": "Women",
+      "url": "https://redcardrisk.blogabet.com/pick/49643194/italy-u19-w-netherlands-u19-w"
+    },
+    {
+      "id": "49643193",
+      "event": "Croatia U19 (W) - Georgia U19 (W)",
+      "market": "Over 3.5 (Goal Line)",
+      "odd": 1.8,
+      "stake": "10/10",
+      "profit": 8,
+      "result": "won",
+      "league": "Women",
+      "url": "https://redcardrisk.blogabet.com/pick/49643193/croatia-u19-w-georgia-u19-w"
+    },
+    {
+      "id": "49643189",
+      "event": "Monaro Panthers - Queanbeyan City",
+      "market": "Queanbeyan City +1.0,+1.5 (Asian Handicap)",
+      "odd": 2,
+      "stake": "10/10",
+      "profit": 0,
+      "result": "void",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49643189/monaro-panthers-queanbeyan-city"
+    },
+    {
+      "id": "49643183",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.654,
+      "stake": "10/10",
+      "profit": 26.54,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49643183/combo-pick",
+      "legs": [
+        {
+          "event": "Liverpool - PSG",
+          "selection": "Under 3.5 (Alternative Total Goals)",
+          "odd": 1.8,
+          "result": "won",
+          "score": "0-2"
+        },
+        {
+          "event": "Atletico Madrid - Barcelona",
+          "selection": "Under 3.5, 4.0 (Goal Line)",
+          "odd": 2.03,
+          "result": "won",
+          "score": "1-2"
+        }
+      ]
+    },
+    {
+      "id": "49640384",
+      "event": "CSKA Sofia - Levski Sofia",
+      "market": "Over 9 (Corners)",
+      "odd": 2.25,
+      "stake": "10/10",
+      "profit": 12.5,
+      "result": "won",
+      "league": "Bulgaria",
+      "url": "https://redcardrisk.blogabet.com/pick/49640384/cska-sofia-levski-sofia"
+    },
+    {
+      "id": "49640378",
+      "event": "Torino U20 - Cremonese U20",
+      "market": "Over 2.5 (Goals Over Under)",
+      "odd": 1.7,
+      "stake": "10/10",
+      "profit": 7,
+      "result": "won",
+      "league": "Ita. Other",
+      "url": "https://redcardrisk.blogabet.com/pick/49640378/torino-u20-cremonese-u20"
+    },
+    {
+      "id": "49639131",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.73,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49639131/combo-pick",
+      "legs": [
+        {
+          "event": "Fiorentina - Lazio",
+          "selection": "Over 2.0, 2.5 (Goal Line)",
+          "odd": 1.95,
+          "result": "lost",
+          "score": "1-0"
+        },
+        {
+          "event": "CSKA Sofia - Levski Sofia",
+          "selection": "Over 1.5 (Alternative Total Goals)",
+          "odd": 1.4,
+          "result": "won",
+          "score": "1-1"
+        }
+      ]
+    },
+    {
+      "id": "49639125",
+      "event": "Fiorentina - Lazio",
+      "market": "Lazio (Full Time Result)",
+      "odd": 3.3,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Ita. Serie A",
+      "url": "https://redcardrisk.blogabet.com/pick/49639125/fiorentina-lazio"
+    },
+    {
+      "id": "49639124",
+      "event": "Man Utd - Leeds",
+      "market": "Man Utd Under 2.5 (Result Total Goals)",
+      "odd": 4.33,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Eng. Premier",
+      "url": "https://redcardrisk.blogabet.com/pick/49639124/man-utd-leeds"
+    },
+    {
+      "id": "49639118",
+      "event": "Brunswick City - Melbourne Knights",
+      "market": "Over 3.0, 3.5 (Goal Line)",
+      "odd": 1.95,
+      "stake": "10/10",
+      "profit": -5,
+      "result": "lost",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49639118/brunswick-city-melbourne-knights"
+    },
+    {
+      "id": "49616934",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 4.825,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49616934/combo-pick",
+      "legs": [
+        {
+          "event": "FC Porto - Nottm Forest",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 2.5,
+          "result": "lost",
+          "score": "1-1"
+        },
+        {
+          "event": "Bologna - Aston Villa",
+          "selection": "Over 2.0, 2.5 (Goal Line)",
+          "odd": 1.93,
+          "result": "won",
+          "score": "1-3"
+        }
+      ]
+    },
+    {
+      "id": "49616920",
+      "event": "Bologna - Aston Villa",
+      "market": "Over 3.5 (Alternative Total Goals)",
+      "odd": 4,
+      "stake": "10/10",
+      "profit": 30,
+      "result": "won",
+      "league": "Europa League",
+      "url": "https://redcardrisk.blogabet.com/pick/49616920/bologna-aston-villa"
+    },
+    {
+      "id": "49616912",
+      "event": "Bologna - Aston Villa",
+      "market": "Bologna (Half Time Result)",
+      "odd": 4.33,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Europa League",
+      "url": "https://redcardrisk.blogabet.com/pick/49616912/bologna-aston-villa"
+    },
+    {
+      "id": "49616891",
+      "event": "Mainz - Strasbourg",
+      "market": "Strasbourg Over 3.5 (Team Corners)",
+      "odd": 1.91,
+      "stake": "10/10",
+      "profit": 9.1,
+      "result": "won",
+      "league": "Europa Conference League",
+      "url": "https://redcardrisk.blogabet.com/pick/49616891/mainz-strasbourg"
+    },
+    {
+      "id": "49616881",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 7.841,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49616881/combo-pick",
+      "legs": [
+        {
+          "event": "Crystal Palace - Fiorentina",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 2,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Shakhtar Donetsk - AZ",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 1.98,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Mainz - Strasbourg",
+          "selection": "Over 2.5 (Goal Line)",
+          "odd": 1.98,
+          "result": "lost",
+          "score": "2-0"
+        }
+      ]
+    },
+    {
+      "id": "49610254",
+      "event": "Radnik Bijeljina - Zrinjski Mostar",
+      "market": "Over 2.0, 2.5 (Goal Line)",
+      "odd": 2,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Bosnia & Herz.",
+      "url": "https://redcardrisk.blogabet.com/pick/49610254/radnik-bijeljina-zrinjski-mostar"
+    },
+    {
+      "id": "49608582",
+      "event": "Tochigi SC - Vanraure Hachinohe",
+      "market": "Over 2.5 (Goals Over Under)",
+      "odd": 2.3,
+      "stake": "10/10",
+      "profit": 13,
+      "result": "won",
+      "league": "Japan",
+      "url": "https://redcardrisk.blogabet.com/pick/49608582/tochigi-sc-vanraure-hachinohe"
+    },
+    {
+      "id": "49608580",
+      "event": "Siniolchu FC - Thunderbolt North United",
+      "market": "Over 2.5 (Goals Over Under)",
+      "odd": 1.7,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "India",
+      "url": "https://redcardrisk.blogabet.com/pick/49608580/siniolchu-fc-thunderbolt-north-united"
+    },
+    {
+      "id": "49608579",
+      "event": "Maharashtra Oranje FC - Mumbai Ultras FC",
+      "market": "Over 3.0 (Goal Line)",
+      "odd": 1.9,
+      "stake": "10/10",
+      "profit": 0,
+      "result": "void",
+      "league": "India",
+      "url": "https://redcardrisk.blogabet.com/pick/49608579/maharashtra-oranje-fc-mumbai-ultras-fc"
+    },
+    {
+      "id": "49608577",
+      "event": "Western City Rangers - Bulls FC Academy",
+      "market": "Over 3.0, 3.5 (Goal Line)",
+      "odd": 1.95,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49608577/western-city-rangers-bulls-fc-academy"
+    },
+    {
+      "id": "49608570",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.056,
+      "stake": "10/10",
+      "profit": 20.56,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49608570/combo-pick",
+      "legs": [
+        {
+          "event": "Chinese Taipei U20 (W) - India U20 (W)",
+          "selection": "Over 2.5, 3.0 (Goal Line)",
+          "odd": 1.83,
+          "result": "won",
+          "score": "1-3"
+        },
+        {
+          "event": "Japan U20 (W) - Australia U20 (W)",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.67,
+          "result": "won",
+          "score": "5-2"
+        }
+      ]
+    },
+    {
+      "id": "49608565",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.51,
+      "stake": "10/10",
+      "profit": 25.1,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49608565/combo-pick",
+      "legs": [
+        {
+          "event": "Brindabella Blues FC - Canberra Croatia FC",
+          "selection": "Canberra Croatia FC -1.5 (Asian Handicap)",
+          "odd": 1.8,
+          "result": "won",
+          "score": "2-4"
+        },
+        {
+          "event": "Sutherland Sharks - Gladesville Ryde Magic",
+          "selection": "Over 4.0 (Goal Line)",
+          "odd": 1.95,
+          "result": "won",
+          "score": "6-0"
+        }
+      ]
+    },
+    {
+      "id": "49603446",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 4.866,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49603446/combo-pick",
+      "legs": [
+        {
+          "event": "Real Madrid - Bayern Munich",
+          "selection": "Real Madrid (Full Time Result)",
+          "odd": 2.63,
+          "result": "lost",
+          "score": "1-2"
+        },
+        {
+          "event": "Sporting - Arsenal",
+          "selection": "Arsenal (Full Time Result)",
+          "odd": 1.85,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49603438",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.394,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49603438/combo-pick",
+      "legs": [
+        {
+          "event": "Melbourne City - Central Coast Mariners",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.8,
+          "result": "won",
+          "score": "2-1"
+        },
+        {
+          "event": "Wynnum Wolves - Gold Coast United",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.33,
+          "result": "lost",
+          "score": "1-1"
+        }
+      ]
+    },
+    {
+      "id": "49598504",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.006,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49598504/combo-pick",
+      "legs": [
+        {
+          "event": "Millwall - Norwich",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.8,
+          "result": "won",
+          "score": "1-2"
+        },
+        {
+          "event": "Derby - Stoke",
+          "selection": "Stoke Over 3.5 (Team Corners)",
+          "odd": 1.67,
+          "result": "lost",
+          "score": "3"
+        }
+      ]
+    },
+    {
+      "id": "49598495",
+      "event": "Portsmouth - Oxford Utd",
+      "market": "Portsmouth (Full Time Result)",
+      "odd": 1.95,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Eng. Championship",
+      "url": "https://redcardrisk.blogabet.com/pick/49598495/portsmouth-oxford-utd"
+    },
+    {
+      "id": "49598487",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.76,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49598487/combo-pick",
+      "legs": [
+        {
+          "event": "Napoli - AC Milan",
+          "selection": "Over 2.0, 2.5 (Goal Line)",
+          "odd": 2,
+          "result": "lost",
+          "score": "1-0"
+        },
+        {
+          "event": "Juventus - Genoa",
+          "selection": "Juventus (Full Time Result)",
+          "odd": 1.38,
+          "result": "won",
+          "score": "2-0"
+        }
+      ]
+    },
+    {
+      "id": "49598480",
+      "event": "Lecce - Atalanta",
+      "market": "Atalanta (Full Time Result)",
+      "odd": 1.73,
+      "stake": "10/10",
+      "profit": 7.3,
+      "result": "won",
+      "league": "Ita. Serie A",
+      "url": "https://redcardrisk.blogabet.com/pick/49598480/lecce-atalanta"
+    },
+    {
+      "id": "49598479",
+      "event": "Udinese - Como",
+      "market": "Over 2.0, 2.5 (Goal Line)",
+      "odd": 2.05,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Ita. Serie A",
+      "url": "https://redcardrisk.blogabet.com/pick/49598479/udinese-como"
+    },
+    {
+      "id": "49598472",
+      "event": "Lazio U20 - Napoli U20",
+      "market": "Over 2.5 (Goal Line)",
+      "odd": 1.98,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Ita. Other",
+      "url": "https://redcardrisk.blogabet.com/pick/49598472/lazio-u20-napoli-u20"
+    },
+    {
+      "id": "49598470",
+      "event": "Melbourne Knights - Yarraville Glory",
+      "market": "Yarraville Glory +2.5,+3.0 (Asian Handicap)",
+      "odd": 1.85,
+      "stake": "10/10",
+      "profit": 8.5,
+      "result": "won",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49598470/melbourne-knights-yarraville-glory"
+    },
+    {
+      "id": "49594994",
+      "event": "Rapid Vienna - SK Sturm Graz",
+      "market": "Over 2.5 (Goal Line)",
+      "odd": 1.95,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Austria",
+      "url": "https://redcardrisk.blogabet.com/pick/49594994/rapid-vienna-sk-sturm-graz"
+    },
+    {
+      "id": "49593585",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 7.164,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49593585/combo-pick",
+      "legs": [
+        {
+          "event": "Cremonese - Bologna",
+          "selection": "Bologna (Full Time Result)",
+          "odd": 2.2,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Eintracht Frankfurt - Cologne",
+          "selection": "Eintracht Frankfurt (Full Time Result)",
+          "odd": 1.95,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Angers - Lyon",
+          "selection": "Lyon (Full Time Result)",
+          "odd": 1.67,
+          "result": "lost",
+          "score": "0-0"
+        }
+      ]
+    },
+    {
+      "id": "49593578",
+      "event": "Inter Milan - Roma",
+      "market": "Yes (Both Teams To Score)",
+      "odd": 1.95,
+      "stake": "10/10",
+      "profit": 9.5,
+      "result": "won",
+      "league": "Ita. Serie A",
+      "url": "https://redcardrisk.blogabet.com/pick/49593578/inter-milan-roma"
+    },
+    {
+      "id": "49593572",
+      "event": "Getafe - Athletic Club",
+      "market": "Over 2.5 (Goals Over Under)",
+      "odd": 3.2,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Spa. Primera",
+      "url": "https://redcardrisk.blogabet.com/pick/49593572/getafe-athletic-club"
+    },
+    {
+      "id": "49593549",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.24,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49593549/combo-pick",
+      "legs": [
+        {
+          "event": "Go Ahead Eagles - PEC Zwolle",
+          "selection": "Over 2.5 & Yes (Total Goals Both Teams To Score)",
+          "odd": 1.8,
+          "result": "lost",
+          "score": "5-0"
+        },
+        {
+          "event": "FC Volendam - Feyenoord",
+          "selection": "Over 2.5 & Yes (Total Goals Both Teams To Score)",
+          "odd": 1.8,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49591978",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.623,
+      "stake": "10/10",
+      "profit": -0.85,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49591978/combo-pick",
+      "legs": [
+        {
+          "event": "Melbourne City - Central Coast Mariners",
+          "selection": "Over 9 (Corners)",
+          "odd": 1.83,
+          "result": "won",
+          "score": "15"
+        },
+        {
+          "event": "Rockdale Ilinden FC - St George Saints",
+          "selection": "Over 3.0, 3.5 (Goal Line)",
+          "odd": 1.98,
+          "result": "lost",
+          "score": "3-0"
+        }
+      ]
+    },
+    {
+      "id": "49591973",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 5.207,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49591973/combo-pick",
+      "legs": [
+        {
+          "event": "Kochi United - Kamatamare Sanuki",
+          "selection": "Over 2.0, 2.5 (Goal Line)",
+          "odd": 1.98,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Matsumoto Y FC - Iwaki FC",
+          "selection": "Iwaki FC (Full Time Result)",
+          "odd": 2.63,
+          "result": "lost",
+          "score": "2-2"
+        }
+      ]
+    },
+    {
+      "id": "49587263",
+      "event": "Man City - Liverpool",
+      "market": "Liverpool Over 3.5 (Team Corners)",
+      "odd": 1.73,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Eng. FA Cup",
+      "url": "https://redcardrisk.blogabet.com/pick/49587263/man-city-liverpool"
+    },
+    {
+      "id": "49587139",
+      "event": "FC Levadia Tallinn - JK Nomme United",
+      "market": "FC Levadia Tallinn -2.0 (Asian Handicap)",
+      "odd": 2,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Estonia",
+      "url": "https://redcardrisk.blogabet.com/pick/49587139/fc-levadia-tallinn-jk-nomme-united"
+    },
+    {
+      "id": "49587132",
+      "event": "Mallorca - Real Madrid",
+      "market": "Real Madrid (Half Time Result)",
+      "odd": 2.05,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Spa. Primera",
+      "url": "https://redcardrisk.blogabet.com/pick/49587132/mallorca-real-madrid"
+    },
+    {
+      "id": "49587122",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.667,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49587122/combo-pick",
+      "legs": [
+        {
+          "event": "SC Freiburg - Bayern Munich",
+          "selection": "Bayern Munich -1.0,-1.5 (Asian Handicap)",
+          "odd": 1.93,
+          "result": "pending",
+          "score": null
+        },
+        {
+          "event": "Mallorca - Real Madrid",
+          "selection": "Real Madrid -1.0 (Asian Handicap)",
+          "odd": 1.9,
+          "result": "lost",
+          "score": "2-1"
+        }
+      ]
+    },
+    {
+      "id": "49587101",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.173,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49587101/combo-pick",
+      "legs": [
+        {
+          "event": "Mallorca - Real Madrid",
+          "selection": "Real Madrid (Full Time Result)",
+          "odd": 1.53,
+          "result": "lost",
+          "score": "2-1"
+        },
+        {
+          "event": "Bayer Leverkusen - Wolfsburg",
+          "selection": "Bayer Leverkusen (Full Time Result)",
+          "odd": 1.42,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49586612",
+      "event": "Chelsea - Port Vale",
+      "market": "Port Vale +2.5,+3.0 (Asian Handicap)",
+      "odd": 1.98,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Eng. FA Cup",
+      "url": "https://redcardrisk.blogabet.com/pick/49586612/chelsea-port-vale"
+    },
+    {
+      "id": "49584984",
+      "event": "Gamba Osaka - Kyoto Sanga FC",
+      "market": "Gamba Osaka (Full Time Result)",
+      "odd": 2.3,
+      "stake": "10/10",
+      "profit": 13,
+      "result": "won",
+      "league": "Japan",
+      "url": "https://redcardrisk.blogabet.com/pick/49584984/gamba-osaka-kyoto-sanga-fc"
+    },
+    {
+      "id": "49584976",
+      "event": "Joondalup City - Subiaco AFC",
+      "market": "Joondalup City -1.0,-1.5 (Asian Handicap)",
+      "odd": 1.9,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49584976/joondalup-city-subiaco-afc"
+    },
+    {
+      "id": "49584970",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.667,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49584970/combo-pick",
+      "legs": [
+        {
+          "event": "SD Raiders - Wollongong Wolves",
+          "selection": "Over 3.0 (Goal Line)",
+          "odd": 1.93,
+          "result": "lost",
+          "score": "1-1"
+        },
+        {
+          "event": "NWS Spirit FC - University NSW",
+          "selection": "Over 3.0 (Goal Line)",
+          "odd": 1.9,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49584965",
+      "event": "Melbourne City - Western Sydney Wanderers",
+      "market": "Melbourne City (Full Time Result)",
+      "odd": 1.9,
+      "stake": "10/10",
+      "profit": 9,
+      "result": "won",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49584965/melbourne-city-western-sydney-wanderers"
+    },
+    {
+      "id": "49584961",
+      "event": "Nagoya Grampus - Cerezo Osaka",
+      "market": "Over 2.5 (Goal Line)",
+      "odd": 1.95,
+      "stake": "10/10",
+      "profit": 9.5,
+      "result": "won",
+      "league": "Japan",
+      "url": "https://redcardrisk.blogabet.com/pick/49584961/nagoya-grampus-cerezo-osaka"
+    },
+    {
+      "id": "49584959",
+      "event": "Central Coast Mariners - Perth Glory",
+      "market": "Over 2.5, 3.0 (Goal Line)",
+      "odd": 1.93,
+      "stake": "10/10",
+      "profit": 9.3,
+      "result": "won",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49584959/central-coast-mariners-perth-glory"
+    },
+    {
+      "id": "49578608",
+      "event": "Perth Glory (W) - Melbourne Victory (W)",
+      "market": "Over 2.5, 3.0 (Goal Line)",
+      "odd": 1.98,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Women",
+      "url": "https://redcardrisk.blogabet.com/pick/49578608/perth-glory-w-melbourne-victory-w"
+    },
+    {
+      "id": "49578604",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.66,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49578604/combo-pick",
+      "legs": [
+        {
+          "event": "Adelaide United - Auckland FC",
+          "selection": "Over 3.0 (Goal Line)",
+          "odd": 1.9,
+          "result": "lost",
+          "score": "1-1"
+        },
+        {
+          "event": "Apia L Tigers - Western Sydney Wanderers NPL",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.4,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49575263",
+      "event": "Brondby IF Women - HB Koge Women",
+      "market": "Over 2.75 O/U (FT)",
+      "odd": 1.999,
+      "stake": "10/10",
+      "profit": 9.99,
+      "result": "won",
+      "league": "Women",
+      "url": "https://redcardrisk.blogabet.com/pick/49575263/brondby-if-women-hb-koge-women"
+    },
+    {
+      "id": "49575248",
+      "event": "Curtin University SC - Gwelup Croatia SC",
+      "market": "Over 3.0, 3.5 (Goal Line)",
+      "odd": 1.95,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49575248/curtin-university-sc-gwelup-croatia-sc"
+    },
+    {
+      "id": "49574218",
+      "event": "Australia U20 (W) - Chinese Taipei U20 (W)",
+      "market": "Chinese Taipei U20 (W) +3.0,+3.5 (Asian Handicap)",
+      "odd": 1.88,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": "Women",
+      "url": "https://redcardrisk.blogabet.com/pick/49574218/australia-u20-w-chinese-taipei-u20-w"
+    },
+    {
+      "id": "49574205",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.85,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49574205/combo-pick",
+      "legs": [
+        {
+          "event": "Macarthur FC - Newcastle Jets",
+          "selection": "Macarthur FC (Full Time Result)",
+          "odd": 2.2,
+          "result": "won",
+          "score": "3-2"
+        },
+        {
+          "event": "Brisbane Roar - Sydney FC",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.75,
+          "result": "lost",
+          "score": "0-0"
+        }
+      ]
+    },
+    {
+      "id": "49569707",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 3.572,
+      "stake": "10/10",
+      "profit": -0.5,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49569707/combo-pick",
+      "legs": [
+        {
+          "event": "Ballarat City FC - St Albans Saints",
+          "selection": "Ballarat City FC +1.5,+2.0 (Asian Handicap)",
+          "odd": 1.88,
+          "result": "lost",
+          "score": "1-3"
+        },
+        {
+          "event": "Nunawading - Preston Lions",
+          "selection": "Over 3.5 (Goal Line)",
+          "odd": 1.9,
+          "result": "won",
+          "score": "0-4"
+        }
+      ]
+    },
+    {
+      "id": "49569702",
+      "event": "Brisbane Olympic FC - Samford Rangers",
+      "market": "Brisbane Olympic FC -3.0 (Asian Handicap)",
+      "odd": 1.98,
+      "stake": "10/10",
+      "profit": 9.8,
+      "result": "won",
+      "league": "Australia",
+      "url": "https://redcardrisk.blogabet.com/pick/49569702/brisbane-olympic-fc-samford-rangers"
+    },
+    {
+      "id": "49569697",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 2.34,
+      "stake": "10/10",
+      "profit": -10,
+      "result": "lost",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49569697/combo-pick",
+      "legs": [
+        {
+          "event": "Eastern Suburbs - Lions FC",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.3,
+          "result": "lost",
+          "score": "1-1"
+        },
+        {
+          "event": "Holland Park Hawks - Mount Gravatt Hawks",
+          "selection": "Over 4.0 (Goal Line)",
+          "odd": 1.8,
+          "result": "pending",
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": "49569689",
+      "event": "Combo pick",
+      "market": null,
+      "odd": 1.7,
+      "stake": "10/10",
+      "profit": 7,
+      "result": "won",
+      "league": null,
+      "url": "https://redcardrisk.blogabet.com/pick/49569689/combo-pick",
+      "legs": [
+        {
+          "event": "Brisbane City - Brisbane Strikers",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.36,
+          "result": "won",
+          "score": "3-0"
+        },
+        {
+          "event": "Mitchelton FC - Grange Thistle",
+          "selection": "Over 2.5 (Goals Over Under)",
+          "odd": 1.25,
+          "result": "won",
+          "score": "0-3"
+        }
+      ]
+    }
+  ]
+}
